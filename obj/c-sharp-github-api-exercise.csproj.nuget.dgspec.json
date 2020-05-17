@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\karle\\personal-web-projects\\c-sharp-github-api-exercise\\c-sharp-github-api-exercise.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\karle\\personal-web-projects\\c-sharp-github-api-exercise\\c-sharp-github-api-exercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karle\\personal-web-projects\\c-sharp-github-api-exercise\\c-sharp-github-api-exercise.csproj",
+        "projectName": "c-sharp-github-api-exercise",
+        "projectPath": "C:\\Users\\karle\\personal-web-projects\\c-sharp-github-api-exercise\\c-sharp-github-api-exercise.csproj",
+        "packagesPath": "C:\\Users\\karle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karle\\personal-web-projects\\c-sharp-github-api-exercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

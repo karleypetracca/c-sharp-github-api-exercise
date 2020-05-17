@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HctuRFNXPDMFzr+AW+irRHNZD/TC/YUOSMtnBQuySUalkDCGqyEGXwMnJ1Np7jRO0tLsWOOKD9QAAZ16TBBOWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karle\\personal-web-projects\\c-sharp-github-api-exercise\\c-sharp-github-api-exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karle\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

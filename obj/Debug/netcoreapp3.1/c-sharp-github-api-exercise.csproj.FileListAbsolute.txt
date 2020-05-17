@@ -1,0 +1,15 @@
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\bin\Debug\netcoreapp3.1\c-sharp-github-api-exercise.exe
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\bin\Debug\netcoreapp3.1\c-sharp-github-api-exercise.deps.json
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\bin\Debug\netcoreapp3.1\c-sharp-github-api-exercise.runtimeconfig.json
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\bin\Debug\netcoreapp3.1\c-sharp-github-api-exercise.runtimeconfig.dev.json
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\bin\Debug\netcoreapp3.1\c-sharp-github-api-exercise.dll
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\bin\Debug\netcoreapp3.1\c-sharp-github-api-exercise.pdb
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.csprojAssemblyReference.cache
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.csproj.CoreCompileInputs.cache
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.AssemblyInfoInputs.cache
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.AssemblyInfo.cs
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.dll
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.pdb
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.genruntimeconfig.cache
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\karle\personal-web-projects\c-sharp-github-api-exercise\obj\Debug\netcoreapp3.1\c-sharp-github-api-exercise.csproj.CopyComplete
